@@ -1,7 +1,5 @@
+#Integratiion of Jira with GitHub
 https://support.atlassian.com/jira-cloud-administration/docs/integrate-with-github/
-adding more comments for TEST-1 on line3
-adding another commit 
-adding more on line 5   
 
-Testing commit for Test-2
-Adding commit to main Test-2
+#Configuring Workdflow Triggers
+https://confluence.atlassian.com/adminjiraserver0813/configuring-workflow-triggers-1027138215.html
