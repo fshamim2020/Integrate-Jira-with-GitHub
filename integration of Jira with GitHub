@@ -1,5 +1,8 @@
 #Integratiion of Jira with GitHub
 https://support.atlassian.com/jira-cloud-administration/docs/integrate-with-github/
+https://bigbrassband.com/git-integration-for-jira/documentation/linking-git-commits-to-jira-issues.html
+# In order to refelect changes to Jira , alwayas specify Jira ticket number (TEST-2)into comment of GitHub and commit 
 
 #Configuring Workdflow Triggers
 https://confluence.atlassian.com/adminjiraserver0813/configuring-workflow-triggers-1027138215.html
+  
